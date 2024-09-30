@@ -20,6 +20,6 @@ Installation
 ---------
 
 Optiworks is currently available for Windows users, with installation files
-accessible in https://drive.google.com/file/d/1CBRr7x1XJPNiXnU93xSDhJyN3NsL2__w/view. The installation process follows standard procedures
+accessible in the repository. The installation process follows standard procedures
 for Windows applications. Users can install the software by executing the installer and following the on-screen instructions. No additional configurations
 or dependencies are required post-installation.
