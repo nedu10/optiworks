@@ -1,2 +1,2 @@
-# optiworks
-A Topology optimization Software
+# Optiworks (simple software platform for topology optimization)
+Optiworks provides an accessible and user-friendly solution for topology optimization, simplifying the entire process from domain initialization to the export of the final optimized design. The software integrates two powerful algorithms, Solid Isotropic Material with Penalization (SIMP) and Smooth-edged Material Distribution for Optimizing Topology (SEMDOT), allowing users to choose the most suitable method for their optimization goals. Optiworks offers additional features such as symmetry enforcement to accelerate optimization, static analysis for evaluating design changes on total displacement, equivalent strain, and von Mises stress, and the generation of smooth boundaries, even with coarse meshes. 
